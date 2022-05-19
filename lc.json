@@ -1,4 +1,4 @@
 {
-  "Main": {"Active":true},
+  "Main": {"Active":true, "IP":"90.217.152.186"},
   "sw_options":{"Resources":["sw-core","sw-target","sw-gunsmith"], "URL":"https://discord.com/api/webhooks/976887737829437440/BN37ZeiHPZTDUqluFAM8kX5pO0ss0ZhvTEl9J62E-Xw5h1UYgH-MLueXnfRIv__uEd19"}
 }
